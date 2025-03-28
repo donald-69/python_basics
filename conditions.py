@@ -45,6 +45,7 @@ elif score >= 70 and score<=74:
     print("B")
 elif score >= 65 and score<=69:
     print("B-")
+#TODO put something
 elif score >= 60 and score<=64:
     print("C+")
 elif score >= 55 and score<=59:

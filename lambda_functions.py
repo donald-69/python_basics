@@ -16,6 +16,7 @@ scores = [{"eng":56,"mat":60},
           {"eng":88,"mat":12},
           {"eng":70,"mat":72}]
 
+ #TODO put comments here
 sorted_by_maths = sorted(scores, key=lambda s: s["mat"])
 
 print(sorted_by_maths)
